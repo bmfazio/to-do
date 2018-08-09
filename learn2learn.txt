@@ -59,3 +59,57 @@ Make sure you have a good motivation
 Don't be afraid of making mistakes
 Everyone has challenges, don't look for excuses
 Try, try, try different systems
+---
+2-1 [Intro to Chunking]
+How to form adequately sized packages of information
+Effective study methods
+Illusion of competence and overlearning
+---
+2-2 [What is a chunk?]
+Facts are better learned by introducing larger context
+Chunks can become larger through practice and association
+"Like getting dressed in the morning"
+---
+2-3 [How to form a chunk pt1]
+Kind of learning a song: practice short passages and then put together
+Or dance... or sport... so maybe that's why those feel easier!
+This is why worked examples are given in math & science
+^ think about why each step was taken and the order in which they happened
+---
+2-4 [How to form a chunk pt2]
+First step: FOCUS! Remove ALL distractions
+Context to idenify when to and NOT to use a chunk
+Big picture: take a glance at chapter headings/lecture
+---
+2-5 [Illusions of competence]
+Re-reading < much worse < Recalling after reading
+(better than drawing concepts maps even!)
+Re-reading only effective if spaced
+Illusion of competence: test yourself to avoid thinking you know sth you don't
+Recall outside of your study context
+---
+2-6 [What motivates you?]
+It's easy to learn if you have the right attitude!
+(but I don't think knowing the exact chemistry helps you directly...)
+Promising yourself a post-study reward might be helpful though
+---
+2-7 [The value of a library of chunks]
+Learn different patterns that will enrich your toolset
+It gets easier the more solid the base -> rich get richer
+---
+2-8 [Overlearning, choking, einstellung, interleaving]
+Continued practice after mastering can lead to overlearning
+Repetitive learning during single long sessions is inefficient
+Deliberately focus on what you find more difficult!
+Einstellung: an initial thought can prevent a better solution
+^ local optima
+Be ready to UNLEARN!
+Don't jump into the pool before learning how to swim.
+---
+2-9 [Summary]
+Chunk: pieces of information bound through use and meaning
+^ easy to access
+Simple recall best way to develop them
+Recall in different contexts
+Interleaving to enrich learning in a single session
+Deliberate practice to avoid easy stuff
