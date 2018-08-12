@@ -26,11 +26,9 @@
 
 **Outcome:** pick final model for Karen
 
-* Evaluate 3, 4 common component mixture, also with different components for id = 0
+* Run full model with 1) five common, linear predictor w/peptide-denat interactions 2) free noise component
 
-* See if bounding the ordered maxima vector helps fit and doesn't harm performance
-
-**Outcome:** model table of results ready for interpretation
+**Outcome:** [MAJO] model table of results ready for interpretation
 
 * Try to fit with the imputation command -> see what errors pop up and ask what to do about them (if anything)
 
